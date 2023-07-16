@@ -9,6 +9,9 @@
     "mongoose": "^7.3.4"
   },
   "type": "module",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "name": "todo",
   "version": "1.0.0",
   "main": "index.js",
